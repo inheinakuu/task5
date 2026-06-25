@@ -1,0 +1,23 @@
+{
+  "name": "task5",
+  "version": "1.0.0",
+  "description": "Music Store Showcase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "faker",
+    "music"
+  ],
+  "author": "Твоё имя",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^10.5.0",
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "seedrandom": "^3.0.5",
+    "tone": "^15.1.22"
+  }
+}
